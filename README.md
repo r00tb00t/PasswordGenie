@@ -15,11 +15,11 @@ This is a simple **Password Generator** written in Java. It allows users to gene
 ### Using Command Line
 1. **Compile the Java file**
    ```sh
-   javac PasswordGenerator.java
+   javac PasswordGenie.java
    ```
 2. **Run the program**
    ```sh
-   java PasswordGenerator
+   java PasswordGenie
    ```
 3. Follow the prompts to generate a password based on your preferences.
 
