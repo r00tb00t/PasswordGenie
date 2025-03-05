@@ -24,7 +24,7 @@ This is a simple **Password Generator** written in Java. It allows users to gene
 3. Follow the prompts to generate a password based on your preferences.
 
 ### Using an IDE
-1. Open the `PasswordGenerator.java` file in an IDE (IntelliJ IDEA, Eclipse, VS Code, etc.).
+1. Open the `PasswordGenie.java` file in an IDE (IntelliJ IDEA, Eclipse, VS Code, etc.).
 2. Run the program and follow the on-screen prompts.
 
 ## Example Output
@@ -38,7 +38,7 @@ Generated Password: Xyz12Abc34Kl
 ```
 
 ## Future Improvements
-- [ ] Add constraints for minimum and maximum password length
-- [ ] Ensure at least one character from each selected category is included
-- [ ] Add an option to exclude ambiguous characters (O vs 0, l vs 1)
-- [ ] Implement a feature to copy the generated password to clipboard
+-  Add constraints for minimum and maximum password length
+-  Ensure at least one character from each selected category is included
+-  Add an option to exclude ambiguous characters (O vs 0, l vs 1)
+-  Implement a feature to copy the generated password to clipboard
